@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as s}from"./chunks/framework.dd578c14.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"base/course/vitepress.md","lastUpdated":null}'),a={name:"base/course/vitepress.md"};function r(o,c,n,p,i,d){return t(),s("div")}const m=e(a,[["render",r]]);export{l as __pageData,m as default};

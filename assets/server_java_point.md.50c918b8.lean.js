@@ -1,0 +1,1 @@
+import{_ as a,o as s,c as e,V as n}from"./chunks/framework.dd578c14.js";const b=JSON.parse('{"title":"基础扫盲","description":"","frontmatter":{},"headers":[],"relativePath":"server/java/point.md","lastUpdated":null}'),t={name:"server/java/point.md"},l=n("",62),o=[l];function p(r,i,c,u,d,m){return s(),e("div",null,o)}const A=a(t,[["render",p]]);export{b as __pageData,A as default};
